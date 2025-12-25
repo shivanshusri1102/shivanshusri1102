@@ -3,7 +3,19 @@
 
 💫 About Me:<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🔭 I’m currently working on Myself<br>🌱 I’m currently learning Artificial Intelligence, Machine Learning, and Cloud Platforms<br>💬 Ask me about Python, SQL, Power BI, Excel<br>📫 How to reach me srivastavashivanshu077@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/shivanshusri1102<br>📄 Know about my experiences https://www.linkedin.com/in/shivanshu-srivastava1102/<br>📝 I regularly solving problems on https://leetcode.com/u/shivanshusri1102/<br>
+🔭 I’m currently working on Myself<br>
+
+🌱 I’m currently learning Artificial Intelligence, Machine Learning, and Cloud Platforms<br>
+
+💬 Ask me about Python, SQL, Power BI, Excel<br>
+
+📫 How to reach me srivastavashivanshu077@gmail.com<br>
+
+👨‍💻 All of my projects are available at https://github.com/shivanshusri1102<br>
+
+📄 Know about my experiences https://www.linkedin.com/in/shivanshu-srivastava1102/<br>
+
+📝 I regularly solving problems on https://leetcode.com/u/shivanshusri1102/<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivanshu-srivastava1102/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31193579) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shivanshsri1102) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srivastavashivanshu077@gmail.com) 
