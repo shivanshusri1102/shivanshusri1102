@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Shivanshu Srivastava
-**A passionate Data Analyst || Anspiring Data Scientist**
+**A passionate Data Analyst || Aspiring Data Scientist**
 
 💫 About Me:<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
