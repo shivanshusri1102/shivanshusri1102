@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Shivanshu Srivastava
-**A passionate Data Analyst || Aspiring Data Scientist**
+💻 **A passionate Data Analyst | Aspiring Data Scientist**
 
-💫 About Me:
+## 🚀 About Me
 
 🔭 I’m currently working on Myself<br>
 
