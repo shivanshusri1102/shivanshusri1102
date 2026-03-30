@@ -9,7 +9,7 @@
 
 💬 Ask me about Python, SQL, Power BI, Excel<br>
 
-📫 How to reach me srivastavashivanshu077@gmail.com<br>
+📫 How to reach me shivanshu.srivastava.in@gmail.com<br>
 
 👨‍💻 All of my projects are available at https://github.com/shivanshusri1102<br>
 
